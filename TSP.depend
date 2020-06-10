@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1577224659 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\disjunktniskup.cpp
+	"DisjunktniSkup.h"
+
+1577225444 d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\disjunktniskup.h
+	<vector>
+
+1577992318 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"graf.h"
+	<iomanip>
+	"DisjunktniSkupListe.h"
+
+1577978073 d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\graf.h
+	<vector>
+	<string>
+	<list>
+	<queue>
+
+1577991614 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\graf.cpp
+	"graf.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<queue>
+	<ctime>
+	<chrono>
+	"DisjunktniSkupStablo.h"
+	"DisjunktniSkupListe.h"
+
+1577980071 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\disjunktniskupstablo.cpp
+	"DisjunktniSkupStablo.h"
+
+1577970267 d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\disjunktniskupstablo.h
+	<vector>
+
+1577970569 d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\disjunktniskupliste.h
+	<vector>
+	"lista.h"
+
+1577969723 d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\lista.h
+
+1577969520 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\disjunktniskupliste.cpp
+	"DisjunktniSkupListe.h"
+	<iostream>
+
+1577969721 source:d:\stvari\fax\analiza i sinteza algoritama\projekat 1\tsp\lista.cpp
+	"lista.h"
+	<iostream>
+
